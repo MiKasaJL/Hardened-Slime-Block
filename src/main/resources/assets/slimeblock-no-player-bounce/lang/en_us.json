@@ -1,0 +1,7 @@
+{
+  "carpet.rule.slimeBlockNoPlayerBounce.name": "Hardened Slime Block: No Player Bounce",
+  "carpet.rule.slimeBlockNoPlayerBounce.desc": "Disables slime block bouncing for players only. Vanilla behavior for all other entities is fully preserved.",
+  "carpet.rule.slimeBlockNoPlayerSlowdown.name": "Hardened Slime Block: No Player Slowdown",
+  "carpet.rule.slimeBlockNoPlayerSlowdown.desc": "Disables slime block slowdown for players only. Vanilla behavior for all other entities is fully preserved.",
+  "modmenu.nameTranslation.slimeblock-no-player-bounce": "Hardened Slime Block"
+}

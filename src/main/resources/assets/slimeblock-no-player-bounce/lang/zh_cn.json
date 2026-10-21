@@ -1,0 +1,7 @@
+{
+  "carpet.rule.slimeBlockNoPlayerBounce.name": "坚硬的粘液块：禁用玩家弹跳",
+  "carpet.rule.slimeBlockNoPlayerBounce.desc": "禁用粘液块对玩家的弹跳；对玩家以外的所有实体完整保留原版特性。",
+  "carpet.rule.slimeBlockNoPlayerSlowdown.name": "坚硬的粘液块：禁用玩家减速",
+  "carpet.rule.slimeBlockNoPlayerSlowdown.desc": "禁用粘液块对玩家的水平减速；对玩家以外的所有实体完整保留原版特性。",
+  "modmenu.nameTranslation.slimeblock-no-player-bounce": "坚硬的粘液块"
+}

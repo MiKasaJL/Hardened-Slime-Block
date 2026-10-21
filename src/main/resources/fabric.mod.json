@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "slimeblock-no-player-bounce",
+	"version": "${version}",
+	"name": "Hardened Slime Block",
+	"description": "坚硬的粘液块：两条独立规则分别禁用粘液块对玩家的弹跳与水平减速；对玩家以外的所有实体（生物、掉落物、矿车、船、弹射物等）完整保留原版特性。Carpet 附属，规则默认关闭，可用 /carpet slimeBlockNoPlayerBounce 与 /carpet slimeBlockNoPlayerSlowdown 热切换。",
+	"authors": [
+		"TakuSama"
+	],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.hardenedslimeblock.HardenedSlimeBlock"
+		]
+	},
+	"mixins": [
+		"hardened-slime-block.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"carpet": "*"
+	}
+}
