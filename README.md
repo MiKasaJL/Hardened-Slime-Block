@@ -115,5 +115,3 @@ This project was fully built through AI-assisted development (TeleAgent, powered
 ## License
 
 [MIT](LICENSE)
-
-> AI生成
